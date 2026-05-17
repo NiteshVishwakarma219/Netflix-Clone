@@ -37,8 +37,7 @@ This is a frontend practice project focused on building strong fundamentals.
 Netflix-Clone/
 │── index.html
 │── style.css
-│── assets/
-│    ├── images/
+│── images
 │── README.md
 
 ---
